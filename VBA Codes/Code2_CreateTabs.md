@@ -14,6 +14,8 @@ Copy and paste the following code into your VBA editor:
 
 
 ## VBA Code
+```
+
 ' ---------------------------------------------------------------------------------- '
 ' VBA Code #2: Hardcoded Tab Names (Array Approach)
 ' i.e., generate tabs based on a list of names
@@ -60,6 +62,7 @@ Sub CreateTabs()
 ' End Sub: the end of the subroutine
 End Sub
 
+```
 
   ## License
   
