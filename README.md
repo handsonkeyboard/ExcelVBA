@@ -5,7 +5,7 @@ Welcome to **ExcelVBA***, a collection of 100+ powerful VBA macro codes designed
 Whether you're automating repetitive tasks, enhancing productivity, or just exploring the potential of VBA, this repository has you covered. 
 
 
-## 🌟Key Features
+## 🌟 Key Features
 **100+ VBA Macros**: organised and categorised for easy implementation 
 **Focus on Speed**: designed to save time and simplify complex workflows 
 **Easy-to-Use: clear instructions accompanying each macro for seamless integration 
