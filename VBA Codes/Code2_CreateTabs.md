@@ -1,10 +1,10 @@
 
 # VBA Code #2: Hardcoded Tab Names (Array Approach)
 
-## Code Overview
+## 🎯 Code Overview
 This VBC macro generate specific worksheets using their hardcoded names. 
 
-## Usage Guide
+## 📗 Usage Guide
 Copy and paste the following code into your VBA editor:
 1. Press Alt + F11 to open the VBA editor.
 2. Inside the VBA editor, select "Insert > Module" to create a new module.
@@ -13,7 +13,7 @@ Copy and paste the following code into your VBA editor:
 5. Run the macro. 
 
 
-## VBA Code
+## 📑 VBA Code
 ```
 
 ' ---------------------------------------------------------------------------------- '
@@ -64,11 +64,11 @@ End Sub
 
 ```
 
-  ## License
+  ## 📜 License
   
-  This code is shared under the [MIT](https://choosealicense.com/licenses/mit/) License.
+  This code is shared under the [MIT](https://choosealicense.com/licenses/mit/) License. You are free to use, modify, and distribute it, but attribution is appreciated. 
 
-  ## Authors
+  ## 😊 Authors
 
 - [@handsonkeyboard](https://www.github.com/handsonkeyboard)
     
