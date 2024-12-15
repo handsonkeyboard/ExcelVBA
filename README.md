@@ -13,8 +13,8 @@ Whether you're automating repetitive tasks, enhancing productivity, or just expl
 **Easy-to-Use**: clear instructions accompanying each macro for seamless integration 
 
 ## 📙 Respositry Structure
-- **Code2_HardcodedTabNames**: generate specific worksheets using their hardcoded names
-- **`...`**: More macros coming soon! 🤩
+**Code2_HardcodedTabNames**: generate specific worksheets using their hardcoded names
+**`...`**: More macros coming soon! 🤩
 
 Each macro has its own `README.md` explaining the code. 
 
