@@ -10,7 +10,7 @@ Whether you're automating repetitive tasks, enhancing productivity, or just expl
 
 **Focus on Speed**: designed to save time and simplify complex workflows 
 
-**Easy-to-Use: clear instructions accompanying each macro for seamless integration 
+**Easy-to-Use**: clear instructions accompanying each macro for seamless integration 
 
 ## 📙 Respositry Structure
 - **Code2_HardcodedTabNames**: generate specific worksheets using their hardcoded names
