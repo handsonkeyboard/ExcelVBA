@@ -1,6 +1,6 @@
 # ExcelVBA: 100+ Macro Codes for Excel Automation 🚀🚀
 
-Welcome to **ExcelVBA***, a collection of 100+ powerful VBA macro codes designed to streamline your data processing and analysis tasks in Microsoft Excel. 
+Welcome to **ExcelVBA**, a collection of 100+ powerful VBA macro codes designed to streamline your data processing and analysis tasks in Microsoft Excel. 
 
 Whether you're automating repetitive tasks, enhancing productivity, or just exploring the potential of VBA, this repository has you covered. 
 
