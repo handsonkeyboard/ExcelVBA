@@ -2,7 +2,7 @@
 # VBA Code #2: Hardcoded Tab Names (Array Approach)
 
 ## 🎯 Code Overview
-This VBC macro generate specific worksheets using their hardcoded names. 
+This VBC macro generates specific worksheets using their hardcoded names. 
 
 ## 📗 Usage Guide
 Copy and paste the following code into your VBA editor:
