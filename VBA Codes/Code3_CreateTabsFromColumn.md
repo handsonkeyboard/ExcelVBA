@@ -2,7 +2,7 @@
 # VBA Code #3: Create Worksheet from Column (Dynamic Approach)
 
 ## 🎯 Code Overview
-This VBC macro generate specific worksheets based on a list of names in a rangee on an existing worksheet. 
+This VBC macro generates specific worksheets based on a list of names in a rangee on an existing worksheet. 
 
 ## 📗 Usage Guide
 Copy and paste the following code into your VBA editor:
