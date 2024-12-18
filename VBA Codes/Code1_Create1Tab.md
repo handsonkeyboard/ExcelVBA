@@ -1,7 +1,7 @@
 # VBA Code #1: Add a New Worksheet
 
 ## 🎯 Code Overview
-This VBC macro generate a new worksheet. 
+This VBC macro creates a new worksheet. 
 
 ## 📗 Usage Guide
 Copy and paste the following code into your VBA editor:
