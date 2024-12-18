@@ -57,7 +57,7 @@ Sub CreateTabs()
     Next i
 
     ' MsgBox: a built-in VBA function that displays a message box on the screen
-    MsgBox "Tabs created successfully!"
+    MsgBox "Worksheets created successfully!"
         
 ' End Sub: the end of the subroutine
 End Sub
